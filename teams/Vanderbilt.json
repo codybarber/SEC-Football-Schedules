@@ -2,6 +2,20 @@
   "name": "Vanderbilt",
   "nickname": "Commodores",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/t-z/vanderbilt.gif",
-  "location": "Nashville, Tennessee",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-vanderbilt-commodores-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/khpzPABWlr8",
+  "schedule": [
+    {"opponent": "South Carolina Gamecocks", "location": "Nashville, TN"},
+    {"opponent": "Middle Tennessee Blue Raiders", "location": "Nashville, TN"},
+    {"opponent": "Georgia Tech Yellow Jackets", "location": "Atlanta, GA"},
+    {"opponent": "Western Kentucky Hilltoppers", "location": "Bowling Green, KY"},
+    {"opponent": "Florida Gators", "location": "Nashville, TN"},
+    {"opponent": "Kentucky Wildcats", "location": "Lexington, KY"},
+    {"opponent": "Georgia Bulldogs", "location": "Athens, GA"},
+    {"opponent": "Tennessee State Tigers", "location": "Nashville, TN"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "Auburn Tigers", "location": "Auburn, AL"},
+    {"opponent": "Missouri Tigers", "location": "Columbia, MO"},
+    {"opponent": "Ole Miss Rebels", "location": "Nashville, TN"},
+    {"opponent": "Tennessee Volunteers", "location": "Nashville, TN"}
+  ]
 }

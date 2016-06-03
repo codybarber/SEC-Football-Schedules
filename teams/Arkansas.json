@@ -2,6 +2,20 @@
   "name": "Arkansas",
   "nickname": "Razorbacks",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/a-g/arkansas.gif",
-  "location": "Fayetteville, Arkansas",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-arkansas-razorbacks-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/5i_euNPtAhQ",
+  "schedule": [
+    {"opponent": "Louisiana Tech Bulldogs", "location": "Fayetteville, AR"},
+    {"opponent": "TCU Horned Frogs", "location": "Fort Worth, TX"},
+    {"opponent": "Texas State Bobcats", "location": "Fayetteville, AR"},
+    {"opponent": "Texas A&M Aggies", "location": "Arlington, TX"},
+    {"opponent": "Alcorn State Braves", "location": "Fayetteville, AR"},
+    {"opponent": "Alabama Crimson Tide", "location": "Fayetteville, AR"},
+    {"opponent": "Ole Miss Rebels", "location": "Fayetteville, AR"},
+    {"opponent": "Auburn Tigers", "location": "Auburn, AL"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "Florida Gators", "location": "Fayetteville, AR"},
+    {"opponent": "LSU Tigers", "location": "Fayetteville, AR"},
+    {"opponent": "Mississippi State Bulldogs", "location": "Starkville, MS"},
+    {"opponent": "Missouri Tigers", "location": "Columbia, MO"}
+  ]
 }

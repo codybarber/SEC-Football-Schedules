@@ -2,6 +2,20 @@
   "name": "Kentucky",
   "nickname": "Wildcats",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/h-m/kentucky.gif",
-  "location": "Lexington, Kentucky",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-kentucky-wildcats-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/fl4BVr9Wxew",
+  "schedule": [
+    {"opponent": "Southern Miss Golden Eagles", "location": "Lexington, KY"},
+    {"opponent": "Florida Gators", "location": "Gainesville, FL"},
+    {"opponent": "New Mexico State Aggies", "location": "Lexington, KY"},
+    {"opponent": "South Carolina Gamecocks", "location": "Lexington, KY"},
+    {"opponent": "Alabama Crimson Tide", "location": "Tuscaloosa, AL"},
+    {"opponent": "Vanderbilt Commodores", "location": "Lexington, KY"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "Mississippi State Bulldogs", "location": "Lexington, KY"},
+    {"opponent": "Missouri Tigers", "location": "Columbia, MO"},
+    {"opponent": "Georgia Bulldogs", "location": "Lexington, KY"},
+    {"opponent": "Tennessee Volunteers", "location": "Knoxville, TN"},
+    {"opponent": "Austin Peay Governors", "location": "Lexington, KY"},
+    {"opponent": "Louisville Cardinals", "location": "Louisville, KY"}
+  ]
 }

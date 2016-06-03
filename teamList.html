@@ -1,6 +1,10 @@
-<h1>SEC Football Teams</h1>
-<ul>
-  <li ng-repeat="team in teams">
-    <a href="#{{team.name}}">{{team.name}}</a>
-  </li>
-</ul>
+<div class="logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/SEC_new_logo.png" alt="" />
+</div>
+<div class="list">
+  <ul style="list-style: none;" >
+    <li ng-repeat="team in teams">
+      <a href="#{{team.name}}"><button>{{team.name}}</button></a>
+    </li>
+  </ul>
+</div>

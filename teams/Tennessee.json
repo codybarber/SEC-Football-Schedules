@@ -1,6 +1,21 @@
 {
   "name": "Tennessee",
   "nickname": "Volunteers",
-  "location": "Knoxville, Tennessee",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-tennessee-volunteers-football-schedule.php"
+  "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/t-z/tennessee.gif",
+  "videoId": "https://www.youtube.com/embed/61CY6iJsqwU",
+  "schedule": [
+    {"opponent": "Appalachian State Mountaineers", "location": "Knoxville, TN"},
+    {"opponent": "Virginia Tech Hokies", "location": "Bristol, TN"},
+    {"opponent": "Ohio Bobcats", "location": "Knoxville, TN"},
+    {"opponent": "Florida Gators", "location": "Knoxville, TN"},
+    {"opponent": "Georgia Bulldogs", "location": "Athens, GA"},
+    {"opponent": "Texas A&M Aggies", "location": "College Station, TX"},
+    {"opponent": "Alabama Crimson Tide", "location": "Knoxville, TN"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "South Carolina Gamecocks", "location": "Columbia, SC"},
+    {"opponent": "Tennessee Tech Golden Eagles", "location": "Knoxville, TN"},
+    {"opponent": "Kentucky Wildcats", "location": "Knoxville, TN"},
+    {"opponent": "Missouri Tigers", "location": "Knoxville, TN"},
+    {"opponent": "Vanderbilt Commodores", "location": "Nashville, TN"}
+  ]
 }

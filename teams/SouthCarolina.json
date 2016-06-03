@@ -2,6 +2,20 @@
   "name": "SouthCarolina",
   "nickname": "Gamecocks",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/n-s/south_carolina.gif",
-  "location": "Columbia, South Carolina",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-south-carolina-gamecocks-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/s1G3TUkNZTI",
+  "schedule": [
+    {"opponent": "Vanderbilt Commodores", "location": "Nashville, TN"},
+    {"opponent": "Mississippi State Bulldogs", "location": "Starkville, MS"},
+    {"opponent": "East Carolina Pirates", "location": "Columbia, SC"},
+    {"opponent": "Kentucky Wildcats", "location": "Lexington, KY"},
+    {"opponent": "Texas A&M Aggies", "location": "Columbia, SC"},
+    {"opponent": "Georgia Bulldogs", "location": "Columbia, SC"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "UMass Minutemen", "location": "Columbia, SC"},
+    {"opponent": "Tennessee Volunteers", "location": "Columbia, SC"},
+    {"opponent": "Missouri Tigers", "location": "Columbia, SC"},
+    {"opponent": "Florida Gators", "location": "Gainesville, FL"},
+    {"opponent": "Western Carolina Catamounts", "location": "Columbia, SC"},
+    {"opponent": "Clemson Tigers", "location": "Clemson, SC"}
+  ]
 }

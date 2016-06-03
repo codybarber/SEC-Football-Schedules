@@ -1,5 +1,84 @@
-<h1>Team: {{info.name}} {{info.nickname}}</h1><br>
-<img src="{{info.logo}}"/>
-<h3>Location: {{info.location}}</h2><br>
-<h3><a href="{{info.schedule}}">Link to Schedule</a></h3><br>
-<p><a href="#/">Back</a></p>
+<div class="header">
+<h1>{{info.name}} {{info.nickname}}</h1><br>
+<span class="video"><iframe width="400" height="250" src="{{info.videoId}}" frameborder="0" allowfullscreen></iframe></span>
+</div>
+
+<div class="schedule">
+<h3>2016 Schedule</h3>
+<table border="1">
+  <tr>
+    <td></td>
+    <td>Opponent</td>
+    <td>Location</td>
+  </tr>
+  <tr>
+    <td>Week 1</td>
+    <td>{{info.schedule[0].opponent}}</td>
+    <td>{{info.schedule[0].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 2</td>
+    <td>{{info.schedule[1].opponent}}</td>
+    <td>{{info.schedule[1].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 3</td>
+    <td>{{info.schedule[2].opponent}}</td>
+    <td>{{info.schedule[2].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 4</td>
+    <td>{{info.schedule[3].opponent}}</td>
+    <td>{{info.schedule[3].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 5</td>
+    <td>{{info.schedule[4].opponent}}</td>
+    <td>{{info.schedule[4].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 6</td>
+    <td>{{info.schedule[5].opponent}}</td>
+    <td>{{info.schedule[5].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 7</td>
+    <td>{{info.schedule[6].opponent}}</td>
+    <td>{{info.schedule[6].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 8</td>
+    <td>{{info.schedule[7].opponent}}</td>
+    <td>{{info.schedule[7].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 9</td>
+    <td>{{info.schedule[8].opponent}}</td>
+    <td>{{info.schedule[8].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 10</td>
+    <td>{{info.schedule[9].opponent}}</td>
+    <td>{{info.schedule[9].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 11</td>
+    <td>{{info.schedule[10].opponent}}</td>
+    <td>{{info.schedule[10].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 12</td>
+    <td>{{info.schedule[11].opponent}}</td>
+    <td>{{info.schedule[11].location}}</td>
+  </tr>
+  <tr>
+    <td>Week 13</td>
+    <td>{{info.schedule[12].opponent}}</td>
+    <td>{{info.schedule[12].location}}</td>
+  </tr>
+</table>
+
+
+
+<p><a href="#/"><button>Back</button></a></p>
+</div>

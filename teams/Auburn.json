@@ -2,6 +2,20 @@
   "name": "Auburn",
   "nickname": "Tigers",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/a-g/auburn.gif",
-  "location": "Auburn, Alabama",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-auburn-tigers-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/o_nx3sK6w3k",
+  "schedule": [
+    {"opponent": "Clemson Tigers", "location": "Auburn, AL"},
+    {"opponent": "Arkansas State Red Wolves", "location": "Auburn, AL"},
+    {"opponent": "Texas A&M Aggies", "location": "Auburn, AL"},
+    {"opponent": "LSU Tigers", "location": "Auburn, AL"},
+    {"opponent": "ULM Warhawks", "location": "Auburn, AL"},
+    {"opponent": "Mississippi State Bulldogs", "location": "Starkville, MS"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "Arkansas Razorbacks", "location": "Auburn, AL"},
+    {"opponent": "Ole Miss Rebels", "location": "Oxford, MS"},
+    {"opponent": "Vanderbilt Commodores", "location": "Auburn, AL"},
+    {"opponent": "Georgia Bulldogs", "location": "Athens, GA"},
+    {"opponent": "Alabama, A&M Bulldogs", "location": "Auburn, AL"},
+    {"opponent": "Alabama Crimson Tide", "location": "Tuscaloosa, AL"}
+  ]
 }

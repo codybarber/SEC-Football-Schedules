@@ -2,6 +2,20 @@
   "name": "Alabama",
   "nickname": "Crimson Tide",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/a-g/alabama.gif",
-  "location": "Tuscaloosa, Alabama",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-alabama-crimson-tide-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/IUPmVNJw9io",
+  "schedule": [
+    {"opponent": "USC Trojans", "location": "Arlington, TX"},
+    {"opponent": "Western Kentucky Hilltoppers", "location": "Tuscaloosa, AL"},
+    {"opponent": "Ole Miss Rebels", "location": "Oxford, MS"},
+    {"opponent": "Kent State Golden Flashes", "location": "Tuscaloosa, AL"},
+    {"opponent": "Kentucky Wildcats", "location": "Tuscaloosa, AL"},
+    {"opponent": "Arkansas Razorbacks", "location": "Fayetteville, AR"},
+    {"opponent": "Tennessee Volunteers", "location": "Knoxville, TN"},
+    {"opponent": "Texas A&M Aggies", "location": "Tuscaloosa, AL"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "LSU Tigers", "location": "Baton Rouge, LA"},
+    {"opponent": "Mississippi State Bulldogs", "location": "Tuscaloosa, AL"},
+    {"opponent": "Chattanooga Mocs", "location": "Tuscaloosa, AL"},
+    {"opponent": "Auburn Tigers", "location": "Tuscaloosa, AL"}
+  ]
 }

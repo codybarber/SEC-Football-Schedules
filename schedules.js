@@ -1,5 +1,6 @@
+
 var app = angular.module('my-app', ['ngRoute']);
-app.config(function($routeProvider) {
+app.config(function($routeProvider, $sceDelegateProvider) {
   $routeProvider
     .when('/', {
       controller: ('MainController'),
@@ -9,6 +10,11 @@ app.config(function($routeProvider) {
       controller: 'TeamController',
       templateUrl: 'schedules.html'
     })
+
+  $sceDelegateProvider.resourceUrlWhitelist([
+    'self',
+    'https://www.youtube.com/embed/**'
+  ]);
 });
 
 app.controller('MainController', function($scope, $http) {

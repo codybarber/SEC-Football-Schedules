@@ -2,6 +2,20 @@
   "name": "Florida",
   "nickname": "Gators",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/a-g/florida.gif",
-  "location": "Gainesville, Florida",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-florida-gators-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/Gk_VTS9aj2Y",
+  "schedule": [
+    {"opponent": "UMass Minutemen", "location": "Gainesville, FL"},
+    {"opponent": "Kentucky Wildcats", "location": "Gainesville, FL"},
+    {"opponent": "North Texas Mean Green", "location": "Gainesville, FL"},
+    {"opponent": "Tennessee Volunteers", "location": "Knoxville, TN"},
+    {"opponent": "Vanderbilt Commodores", "location": "Nashville, TN"},
+    {"opponent": "LSU Tigers", "location": "Gainesville, FL"},
+    {"opponent": "Missouri Tigers", "location": "Gainesville, FL"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "Georgia Bulldogs", "location": "Jacksonville, FL"},
+    {"opponent": "Arkansas Razorbacks", "location": "Fayetteville, AR"},
+    {"opponent": "South Carolina Gamecocks", "location": "Gainesville, FL"},
+    {"opponent": "Presvyterian Blue Hose", "location": "Gainesville, FL"},
+    {"opponent": "Florida State Seminoles", "location": "Tallahassee, FL"}
+  ]
 }

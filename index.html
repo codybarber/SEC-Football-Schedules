@@ -6,6 +6,102 @@
     <script src="angular.js"></script>
     <script src="angular-route.js"></script>
     <script src="schedules.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
+    <style media="screen">
+
+      body {
+        text-align: center;
+        background-image: url(large_leather.png);
+      }
+
+      h1, h3 {
+        font-family: 'Gloria Hallelujah', cursive;
+        text-shadow:
+      }
+
+      .schedule {
+        float: left;
+      }
+
+      .list {
+        float: left;
+      }
+
+      .header {
+        float: left;
+      }
+
+      .logo {
+        float: left;
+        animation: roll 10s infinite;
+        transform: rotate(30deg);
+      }
+      @keyframes roll {
+        0% {
+          transform: rotate(0);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      button {
+      	-moz-box-shadow: 3px 4px 0px 0px #899599;
+      	-webkit-box-shadow: 3px 4px 0px 0px #899599;
+      	box-shadow: 3px 4px 0px 0px #899599;
+      	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #bfbfbf));
+      	background:-moz-linear-gradient(top, #ededed 5%, #bfbfbf 100%);
+      	background:-webkit-linear-gradient(top, #ededed 5%, #bfbfbf 100%);
+      	background:-o-linear-gradient(top, #ededed 5%, #bfbfbf 100%);
+      	background:-ms-linear-gradient(top, #ededed 5%, #bfbfbf 100%);
+      	background:linear-gradient(to bottom, #ededed 5%, #bfbfbf 100%);
+      	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bfbfbf',GradientType=0);
+      	background-color:#ededed;
+      	-moz-border-radius:15px;
+      	-webkit-border-radius:15px;
+      	border-radius:15px;
+      	border:1px solid #e6e6e6;
+      	display:inline-block;
+      	cursor:pointer;
+      	color:#0b0d0d;
+      	font-family:Arial;
+      	font-size:11px;
+      	padding:7px 10px;
+      	text-decoration:none;
+      	text-shadow:0px 1px 0px #e1e2ed;
+        margin-bottom: 5px;
+      }
+      button:hover {
+      	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bfbfbf), color-stop(1, #ededed));
+      	background:-moz-linear-gradient(top, #bfbfbf 5%, #ededed 100%);
+      	background:-webkit-linear-gradient(top, #bfbfbf 5%, #ededed 100%);
+      	background:-o-linear-gradient(top, #bfbfbf 5%, #ededed 100%);
+      	background:-ms-linear-gradient(top, #bfbfbf 5%, #ededed 100%);
+      	background:linear-gradient(to bottom, #bfbfbf 5%, #ededed 100%);
+      	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bfbfbf', endColorstr='#ededed',GradientType=0);
+      	background-color:#bfbfbf;
+      }
+      button:active {
+      	position:relative;
+      	top:1px;
+      }
+
+
+      button {
+        width: 100px;
+      }
+
+      .video {
+        padding: 20px;
+      }
+
+
+      table {
+        border: .5px solid grey;
+        border-collapse: collapse;
+      }
+
+    </style>
   </head>
   <body ng-app="my-app">
     <ng-view></ng-view>

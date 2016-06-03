@@ -2,6 +2,20 @@
   "name": "MississippiState",
   "nickname": "Bulldogs",
   "logo": "http://cdn.fbschedules.com/images/helmets-ncaa/h-m/mississippi_st.gif",
-  "location": "Starkville, Mississippi",
-  "schedule": "http://www.fbschedules.com/ncaa-16/2016-mississippi-state-bulldogs-football-schedule.php"
+  "videoId": "https://www.youtube.com/embed/pjEF11TwEvk",
+  "schedule": [
+    {"opponent": "South Alabama Jaguars", "location": "Starkville, MS"},
+    {"opponent": "South Carolina Gamecocks", "location": "Starkville, MS"},
+    {"opponent": "LSU Tigers", "location": "Baton Rouge, LA"},
+    {"opponent": "UMass Minutemen", "location": "Foxborough, MA"},
+    {"opponent": "Bye Week", "location": ""},
+    {"opponent": "Auburn Tigers", "location": "Starkville, MS"},
+    {"opponent": "BYU Cougars", "location": "Provo, UT"},
+    {"opponent": "Kentucky Wildcats", "location": "Lexington, KY"},
+    {"opponent": "Samford Bulldogs", "location": "Starkville, MS"},
+    {"opponent": "Texas A&M Aggies", "location": "Starkville, MS"},
+    {"opponent": "Alabama Crimson Tide", "location": "Tuscaloosa, AL"},
+    {"opponent": "Arkansas Razorbacks", "location": "Starkville, MS"},
+    {"opponent": "Ole Miss Rebels", "location": "Oxford, MS"}
+  ]
 }
